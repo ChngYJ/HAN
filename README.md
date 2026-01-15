@@ -3,7 +3,7 @@
 
 ## ⌛ Comming soon！ 
 
-Code for paper "Hierarchical Aware-Based Network Forecasting for Multivariate Time Series"!
+Code for paper "Decoupling Hierarchical Dependencies in Time Series with Hierarchical Aware Network"!
 
 ###  📨
 We are excited to announce that we are soon releasing a new journal paper that will be available on our GitHub repository. Please stay tuned for updates and check back regularly for the latest information. 
